@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/praveenyadav117/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/praveenyadav117/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveenyadav117/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/praveenyadav117/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/praveenyadav117/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/praveenyadav117/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
